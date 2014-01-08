@@ -1,0 +1,5 @@
+<testsuite name="Mocha Tests" tests="3" failures="0" errors="0" skipped="0" timestamp="Sun, 05 Jan 2014 20:33:04 GMT" time="16.228">
+<testcase classname="Sky Store Smoke tests :" name="Check Welcome page is displayed" time="1.644"/>
+<testcase classname="Sky Store Smoke tests :" name="After click on SignUp button, Check SignUp Page is displayed:" time="6.237"/>
+<testcase classname="Sky Store Smoke tests :" name="Enter Username and check user name is displayed" time="5.165"/>
+</testsuite>

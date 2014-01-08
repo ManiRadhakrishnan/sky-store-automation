@@ -1,0 +1,12 @@
+{
+    "FirstName" : "Manikandan",
+    "LastName" : "Radhakrishnan",
+    "Email" : "Mrkrishna84@gmail.com",
+    "ConfirmEmail" : "Mrkrishna84@yahoo.com",
+    "Username" : "Mrkrishna84",
+    "Password" : "Sempron1",
+    "ConfirmPassword" : "Sempron1",
+    "browser" : "chrome",
+    "timeout" : 50000,
+    "SearchMovie" : "Bradley Cooper"
+}
